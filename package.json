@@ -1,0 +1,11 @@
+{
+  "name": "spt-correlacoes",
+  "version": "4.0.0",
+  "description": "PWA de correlações geotécnicas a partir do N do SPT, com fórmulas, memória de cálculo e referências.",
+  "private": true,
+  "scripts": {
+    "test": "node tests/validate.js",
+    "build:preview": "node build-preview.js"
+  },
+  "engines": { "node": ">=18" }
+}
