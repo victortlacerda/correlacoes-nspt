@@ -2,6 +2,10 @@
 
 O histórico anterior a este repositório foi reconstruído a partir do desenvolvimento do app; as datas exatas não foram registradas.
 
+## Não lançado
+- Tabela da aba Validação cabe sem rolagem em telas largas.
+- README com apresentação e imagens do app (`docs/img`).
+
 ## v4
 - E/Es: Webb (1969), Ferrent (1963), Begemann (1974), Kulhawy & Mayne (1990).
 
